@@ -3,7 +3,7 @@
 I'm Aditi, currently pursuing my Master's in Computer Science. I love exploring new technologies and applying them to solve complex problems. I have a keen interest in AI/ML-driven software development, and I’m always on the lookout for exciting projects to work on.
 
 ## 🚀 About Me
-- 🎓 Currently working on my Master's in Computer Science.
+- 🎓 Currently working on my Master's in Computer Science (specialized in AI/ML).
 - 🤖 Passionate about AI/ML and how they can be leveraged to drive innovation.
 - 💻 Enjoy building and experimenting with new tech stacks.
 - 🔍 Always eager to learn and grow in the world of software development.
