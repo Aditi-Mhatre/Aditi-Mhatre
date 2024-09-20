@@ -7,7 +7,7 @@ I'm Aditi, currently pursuing my Master's in Intelligent Adaptive Systems, speci
 - 🤖 Passionate about AI/ML and how they can be leveraged to drive innovation.
 - 💻 Enjoy building and experimenting with new tech stacks.
 - 🔍 Always eager to learn and grow in the world of software development.
-- 📚 Avid reader— everything from fiction to business and psychology.
+- 📚 Love reading - an avid reader who enjoys everything from fiction to business and psychology.
 
 Feel free to reach out if you have exciting projects or opportunities!
 
