@@ -1,15 +1,13 @@
 # Hi there! 👋
 
-I'm Aditi, currently pursuing my Master's in Intelligent Adaptive Systems, specializing in AI/ML and Robotics. I love exploring new technologies, AI-driven software development and applying them to solve real-world problems. I’m always on the lookout for exciting projects to work on.
+I'm Aditi, currently pursuing my Master's in Intelligent Adaptive Systems, specializing in AI/ML and Robotics. I love exploring new technologies and applying them to solve real-world problems. 
 
 ## 🚀 About Me
 - 🎓 Currently working on my Master's degree specializing in AI/ML.
 - 🤖 Passionate about AI/ML and how they can be leveraged to drive innovation.
 - 💻 Enjoy building and experimenting with new tech stacks.
 - 🔍 Always eager to learn and grow in the world of software development.
-- 📚 Love reading - an avid reader who enjoys everything from fiction to business and psychology.
 
-Feel free to reach out if you have exciting projects or opportunities!
 
 ## 🛠️ Technologies & Tools
 ### Languages:
