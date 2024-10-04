@@ -4,7 +4,6 @@ I'm Aditi, currently pursuing my Master's in Intelligent Adaptive Systems, speci
 
 ## 🚀 About Me
 - 🎓 Currently working on my Master's degree specializing in AI/ML.
-- 🤖 Passionate about AI/ML and how they can be leveraged to drive innovation.
 - 💻 Enjoy building and experimenting with new tech stacks.
 - 🔍 Always eager to learn and grow in the world of software development.
 
