@@ -1,12 +1,11 @@
 # Hi there! 👋
 
-I'm Aditi, currently pursuing my Master's in Intelligent Adaptive Systems, specializing in AI/ML and Robotics. I love exploring new technologies and applying them to solve real-world problems. 
+I'm Aditi, I enjoy exploring new technologies and applying them to solve real-world problems. 
 
 ## 🚀 About Me
 - 🎓 Currently working on my Master's degree specializing in AI/ML.
 - 💻 Enjoy building and experimenting with new tech stacks.
 - 🔍 Always eager to learn and grow in the world of software development.
-
 
 ## 🛠️ Technologies & Tools
 ### Languages:
@@ -16,7 +15,7 @@ I'm Aditi, currently pursuing my Master's in Intelligent Adaptive Systems, speci
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### AI/ML and Data Science Frameworks:
+### Tech Stack:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
